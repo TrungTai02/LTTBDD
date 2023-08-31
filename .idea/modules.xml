@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TapTheDuc.iml" filepath="$PROJECT_DIR$/.idea/modules/TapTheDuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TapTheDuc.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

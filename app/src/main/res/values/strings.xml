@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Fitness Sport</string>
+    <string name="navigation_drawer_open" translatable="false">Mở ngăn điều hướng</string>
+    <string name="navigation_drawer_close" translatable="false">Đóng ngăn điều hướng</string>
+
+    <!-- Tutorial -->
+    <string name="slide1_heading">Chào mừng bạn đến với Fitness Sportn với quyền riêng tư một cách lành mạnh!</string>
+    <string name="slide1_text">Ứng dụng này nhắc nhở bạn thường xuyên nghỉ giải lao trong khi làm việc. Ngoài ra, bạn có thể chọn từ một loạt các bài tập có thể giúp bạn dành thời gian nghỉ ngơi năng động hơn.</string>
+
+    <string name="slide2_heading">Tạo bộ bài tập</string>
+    <string name="slide2_text">
+       Trước tiên, bạn chỉ định loại bài tập bạn muốn hoàn thành.
+         Để làm được điều đó, bạn có thể tạo các bộ bài tập chứa một nhóm bài tập.
+         Để tạo tập bài tập mới, hãy nhấn vào biểu tượng dấu cộng ở phía dưới bên phải.
+         Sau đó, chỉ cần chỉ định tên cho bộ và nhấn "lưu".
+    </string>
+
+    <string name="slide3_heading">Thêm bài tập</string>
+    <string name="slide3_text">Với nút chỉnh sửa ở phía dưới bên phải, bạn có thể thêm các bài tập mới vào một bộ bằng cách nhấn vào các hộp kiểm bên dưới hình ảnh của các bài tập. Mỗi bài tập được thiết lập để thực hiện trong 30 giây. Thời lượng này có thể được thay đổi trong cài đặt. Bạn cũng có thể lọc danh sách bài tập bằng các nút lọc ở trên cùng.</string>
+
+    <string name="slide4_heading">Chọn bài tập</string>
+    <string name="slide4_text">Bạn có thể chọn bài tập bạn muốn sử dụng trong giờ giải lao bằng cách nhấn vào biểu tượng mũi tên nhỏ ở góc trên cùng bên phải. Chọn thời gian bạn muốn làm việc và thời gian nghỉ ngơi của bạn. Bắt đầu hẹn giờ bằng cách nhấn nút phát.</string>
+
+    <string name="slide5_heading">Thời gian nghỉ ngơi</string>
+    <string name="slide5_text">Ngay khi đến giờ nghỉ, Ứng dụng Tạm dừng lành mạnh sẽ thông báo cho bạn. Nhấn vào thông báo để bắt đầu giờ nghỉ. Bạn có thể thấy thời gian còn lại cho giờ giải lao ở góc trên bên trái.</string>
+
+    <string name="slide6_heading">Nghỉ ngơi lành mạnh</string>
+    <string name="slide6_text">Để bắt đầu với bài tập, hãy nhấn vào nút phát. Nếu bạn muốn bỏ qua một bài tập, hãy nhấn nút bỏ qua. Với nút quay lại, bạn có thể lặp lại bài tập hoặc quay lại bài tập bạn đã thực hiện. Nếu bạn kích hoạt đồng hồ trong nút mũi tên tròn, các bài tập sẽ bắt đầu tự động chạy sau khi hoàn thành bài tập trước đó. Thông thường các bài tập được hiển thị cho đến khi mỗi bài tập được thực hiện một lần. Bằng cách kích hoạt nút lặp lại ở bên phải, tập bài tập sẽ được lặp lại cho đến khi hết giờ nghỉ.</string>
+
+    <!-- Strings -->
+    <string name="activity_edit_exercise_set_name_hint">Nhập tên…</string>
+    <string name="exercise_section_head">Đầu</string>
+    <string name="exercise_section_neck">Cổ</string>
+    <string name="exercise_section_arms">Cánh tay</string>
+    <string name="exercise_section_torso">Thân</string>
+    <string name="exercise_section_spinal">lưng</string>
+    <string name="exercise_section_pelvis">Mông</string>
+    <string name="exercise_section_legs">Chân</string>
+    <string name="activity_title_choose_exercises">Chọn bài tập</string>
+    <string name="activity_edit_no_empty_name">Vui lòng chỉ định  tên.</string>
+    <string name="activity_title_help">Hỗ Sợ</string>
+    <string name="dialog_leave_break_confirmation">Bạn có thực sự muốn hủy bỏ kỳ nghỉ của mình không?</string>
+    <string name="remaining_time">Thời gian còn lại:</string>
+    <string name="activity_timer_choose_time">Chọn thời gian làm việc:</string>
+    <string name="activity_timer_choose_break">Chọn thời gian nghỉ:</string>
+    <string name="toast_please_specify_a_name">Vui lòng chỉ định tên.</string>
+    <string name="toast_please_select_an_item_to_delete">Vui lòng chọn một mục để xóa.</string>
+    <string name="dialog_end_break_confirmation">Bạn có muốn quay lại menu chính không?</string>
+    <string name="dialog_end_break_confirmation_title">Đã hết thời gian tạm dừng!</string>
+    <string name="execution">Chấp hành</string>
+    <string name="description">Miêu tả</string>
+    <string name="set_contains_no_exercises">Bộ này không chứa bài tập.</string>
+    <string name="take_a_break_now">Hãy nghỉ ngơi bây giờ! Bấm vào đây để thực hiện các bài tập bạn đã chọn.</string>
+    <string name="title_activity_settings">Cài đặt</string>
+    <string name="no_exercise_sets">Không có bộ bài tập nào có sẵn. Vui lòng tạo một cái mới.</string>
+    <string name="activity_title_manage_exercise_sets">Bộ bài tập</string>
+    <string name="activity_title_edit_exercise_set">Chỉnh sửa tập bài tập</string>
+    <string name="dialog_add_exercise_set_title">Thêm bài tập mới</string>
+    <string name="activity_title_break_reminder">Bài tập </string>
+    <string name="dialog_add_exercise_set_name">Tên tập bài tập</string>
+    <string name="dialog_discard_confirmation">Bạn có chắc chắn muốn hủy các thay đổi không?</string>
+
+    <!-- Preference Text -->
+    <string name="pref_exercise_time">Thời gian tập thể dục (tính bằng giây)</string>
+    <string name="pref_keep_screen_on_during_exercise">Giữ màn hình luôn bật trong khi tập thể dục</string>
+    <string name="pref_category_exercise">Cài đặt bài tập</string>
+    <string name="pref_category_schedule">lên lịch tập thể dục</string>
+    <string name="pref_schedule_exercise_switch">Bật lịch tập thể dục</string>
+    <string name="pref_schedule_exercise_time">Thời gian biểu</string>
+    <string name="pref_header_schedule">Lên lịch thời gian</string>
+    <string name="pref_header_exercises">Cài đặt bài tập</string>
+    <string name="pref_exercise_continuous">Khoảng thời gian làm việc liên tục</string>
+    <string name="pref_exercise_continuous_summary">Tự động bắt đầu hẹn giờ làm việc tiếp theo</string>
+    <string name="pref_schedule_exercise_days">Chọn ngày</string>
+    <string name="pref_schedule_exercise_daystrigger">Chỉ kích hoạt vào một số ngày nhất định</string>
+    <string name="pref_schedule_exercise_days_defaultsummary">Không có ngày nào được chọn.</string>
+    <string name="pref_schedule_exercise_days_allselectedsummary">Hằng ngày</string>
+
+    <!-- Help -->
+    <string name="help_whatis">Tạm dừng thân thiện với quyền riêng tư một cách lành mạnh là gì??</string>
+    <string name="help_whatis_answer">Thân thiện với quyền riêng tư Tạm dừng lành mạnh là một ứng dụng nhắc nhở bạn nghỉ giải lao trong các buổi làm việc. Nó cho phép bạn chọn các bài tập, sau đó sẽ được hiển thị trong thời gian giải lao của bạn.</string>
+    <string name="help_select_exercises">Làm cách nào để chọn các bài tập để tôi có thể thực hiện chúng trong giờ giải lao?</string>
+    <string name="help_select_exercises_answer">
+       Các bài tập phải được thêm vào một bộ bài tập để có thể lựa chọn.
+         Ngay sau khi tạo tập bài tập, bạn có thể thêm bài tập mới bằng cách nhấn vào \"Bộ bài tập\" trong menu bên và chọn tập bạn muốn thêm bài tập vào.
+         Sau đó, bạn có thể thêm hoặc xóa bài tập bằng cách nhấn vào biểu tượng chỉnh sửa ở góc dưới bên phải, sau đó chọn bài tập bạn muốn.\n
+    </string>
+    <string name="help_create_sets">Làm cách nào để tạo các bộ bài tập?</string>
+    <string name="help_create_sets_answer">
+        Để tạo một tập bài tập, hãy chọn \"Bộ bài tập\" trong menu bên và nhấn vào biểu tượng \"+\"-ở góc dưới bên phải. Sau khi đặt tên, bạn có thể thêm bài tập vào bộ.
+    </string>
+    <string name="help_permission">Ứng dụng yêu cầu những quyền nào?</string>
+    <string name="help_permission_answer">
+       Ứng dụng cần có ba quyền.\n
+         1. Rung - để bắt đầu cảnh báo rung khi thời gian nghỉ sẽ bắt đầu.\n
+         2. WAKE_LOCK - để có thể đặt bộ hẹn giờ bắt đầu tự động.\n
+         3. RECEIVE_BOOT_COMPLETED - để có thể đặt bộ hẹn giờ tự động bắt đầu sau khi khởi động lại một cách chính xác.\n
+         Không cần thêm quyền.
+    </string>
+    <!-- Button text -->
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="dismiss_and_dont_repeat">Dismiss &amp; don\'t restart</string>
+    <string name="snooze">Snooze</string>
+    <string name="start_break">Bắt đầu nghỉ</string>
+    <string name="okay">Okay</string>
+    <string name="next">Tiếp theo</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="help">Hỗ Trợ</string>
+    <string name="save">lưu</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="yes">đông</string>
+    <string name="no">No</string>
+    <string name="keep_editing">tiếp tục chỉnh sửa</string>
+    <string name="discard">discard</string>
+    <string name="about_graphics_by">đồ họa &amp; hình ảnh:</string>
+
+
+    <!-- default set names -->
+    <string name="set_default_1">Cổ </string>
+    <string name="set_default_2">Vai và Vánh tay</string>
+    <string name="set_default_3">Back</string>
+    <string name="set_default_4">Hông</string>
+    <string name="set_default_5">Đầu gối</string>
+    <string name="pref_category_default_exercise_sets">Bộ bài tập mặc định</string>
+    <string name="pref_hide_default_exercise_sets">Ẩn các bài tập mặc định</string>
+
+    <string name="exercise_set_can_not_be_deleted">Bộ này không thể bị xóa. Những bộ này có thể được ẩn thông qua trang cài đặt.</string>
+    <string name="exercise_set_can_not_be_edited">Bộ này không thể chỉnh sửa được.</string>
+
+    <string name="activity_exercise_button_prev">bài tập trước</string>
+    <string name="activity_exercise_button_next">bài tập tiếp theo</string>
+    <string name="activity_exercise_button_repeat_on">bài tập lại</string>
+    <string name="activity_exercise_button_repeat_off">tắt bài tập lặp lại</string>
+    <string name="activity_exercise_button_continuous_on">tự động bắt đầu hẹn giờ</string>
+    <string name="activity_exercise_button_continuous_off">bắt đầu hẹn giờ theo cách thủ công</string>
+    <string name="exercise_time">Execise Time:\n%s</string>
+    <string name="dialog_warning_not_enough_exercise_time">Thời gian bài tập đã chọn quá ngắn để hoàn thành tập bài tập đã chọn. Thời gian sẽ tự động được điều chỉnh. Bạn có chắc chắn muốn bắt đầu hẹn giờ không?</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="toast_not_enough_exercise_time">Thời gian bài tập được chọn hiện tại không đủ để hoàn thành tập bài tập đã chọn. Thời gian đã được điều chỉnh.</string>
+    <string name="pref_schedule_random_exercise">Sử dụng các bài tập ngẫu nhiên</string>
+
+
+</resources>
